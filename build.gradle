@@ -12,7 +12,7 @@ dependencies {
 
 jar {
     manifest {
-        attributes 'Main-Class': 'example.Main'
+        attributes 'Main-Class': 'stringprinter.Main'
     }
     from {
         configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
