@@ -2,6 +2,8 @@
 
 * This repo is a minimalisitc Gradle build of a Java project
 
+* How to build and run project:
+
 ```
 ./gradlew clean
 ./gradlew build
