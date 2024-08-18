@@ -1,6 +1,4 @@
-# A Java Project Built with Gradle
-
-* This repo is a minimalisitc Gradle build of a Java project
+* A minimal Gradle setup designed to demonstrate the basics of using Gradle for simple projects
 
 * How to build and run project:
 
